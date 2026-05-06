@@ -90,7 +90,7 @@ export default function Home() {
         <AnimatedSection>
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="font-serif text-section mb-6">
-              Let's Create Together
+              Let&apos;s Create Together
             </h2>
             <p className="text-gray-300 text-lg mb-8 max-w-2xl mx-auto">
               Available for commissions, collaborations, and creative projects worldwide.

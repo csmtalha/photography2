@@ -57,7 +57,7 @@ export default function AboutPage() {
                   {siteConfig.bio}
                 </p>
                 <p>
-                  With over a decade of experience in visual storytelling, I've had the privilege of working 
+                  With over a decade of experience in visual storytelling, I&apos;ve had the privilege of working
                   with leading publications, brands, and cultural institutions across the globe.
                 </p>
                 <p>
@@ -132,10 +132,10 @@ export default function AboutPage() {
         <AnimatedSection delay={0.8}>
           <div className="text-center mt-20">
             <h3 className="font-serif text-3xl md:text-4xl mb-6">
-              Let's Work Together
+              Let&apos;s Work Together
             </h3>
             <p className="text-gray-400 mb-8 max-w-2xl mx-auto">
-              I'm currently accepting new projects and collaborations. Reach out to discuss how we can create something exceptional.
+              I&apos;m currently accepting new projects and collaborations. Reach out to discuss how we can create something exceptional.
             </p>
             <a href="/contact">
               <button className="px-8 py-4 bg-white text-black hover:bg-gray-200 transition-colors text-sm uppercase tracking-widest font-medium">

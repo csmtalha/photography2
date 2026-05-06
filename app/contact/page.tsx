@@ -56,7 +56,7 @@ export default function ContactPage() {
               transition={{ duration: 0.6, delay: 0.2 }}
               className="text-gray-400 text-lg max-w-2xl mx-auto"
             >
-              Let's discuss your next project, collaboration, or creative vision.
+              Let&apos;s discuss your next project, collaboration, or creative vision.
             </motion.p>
           </div>
         </AnimatedSection>
@@ -199,7 +199,7 @@ export default function ContactPage() {
                   animate={{ opacity: 1, y: 0 }}
                   className="text-green-400 text-sm text-center"
                 >
-                  Thank you! I'll get back to you soon.
+                  Thank you! I&apos;ll get back to you soon.
                 </motion.p>
               )}
             </form>
